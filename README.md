@@ -1,6 +1,6 @@
 > **NOTE:** This README.md file should be placed at the **root of each of your main directory.**
 
-# LIS4331 and name
+# LIS4331 
 
 ## Ian Stephenson
 
