@@ -39,15 +39,15 @@
 
 #### Assignment Screenshots:
 
-*Screenshot of AMPPS running http://localhost*:
+*Screenshot of running java Hello*:
 
 ![AMPPS Installation Screenshot](img/ampps.png)
 
-*Screenshot of running java Hello*:
+*Screenshot of Android Studio - My first App*:
 
 ![JDK Installation Screenshot](img/jdk_install.png)
 
-*Screenshot of Android Studio - My First App*:
+*Screenshot of Contacts App - Main Screen*:
 
 ![Android Studio Installation Screenshot](img/android.png)
 
