@@ -3,24 +3,25 @@
 >Also, this file **must** use Markdown syntax, and provide project documentation as per below--otherwise, points **will** be deducted.
 >
 
-# Course Title
+# LIS4331 - Advanced Mobile Applications Development
 
-## Your Name
+## Ian Stephenson
 
-### Assignment # Requirements:
+### Assignment 1 Requirements:
 
-*Sub-Heading:*
+*Four Parts:*
 
-1. Ordered-list items
-2. 
-3. 
+1. Distributed Version Control with Git and Bitbucket
+2. Developmet Installations
+3. Chapter Questions (Chs 1,2)
+4. Bitbucket repo links: a) this assignment and b) the completed tutorials above(bitbucketstationlocations and myteamquotes)
 
 #### README.md file should include the following items:
 
-* Bullet-list items
-* 
-* 
-* 
+* Screenshot of running java Hello
+* Screenshot of running Android Studio - My first App
+* Screenshot of running Android Studio - Contacts App
+* git commands w/short descriptions 
 
 > This is a blockquote.
 > 
