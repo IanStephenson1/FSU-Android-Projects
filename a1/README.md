@@ -28,13 +28,13 @@
 >
 > #### Git commands w/short descriptions:
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
+1. git-init - Create an empty Git repository or reinitialize an existing one
+2. git-status - Show the working tree status
+3. git-add - Add file contents to the index
+4. git-commit - Record changes to the repository
+5. git-push - Update remote refs along with associated objects
+6. git-pull - Fetch from and integrate with another repository or a local branch
+7. git-clean - Remove untracked files from the working tree
 
 #### Assignment Screenshots:
 
