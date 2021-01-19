@@ -44,7 +44,7 @@
 ![AMPPS Installation Screenshot](img/ampps.png)
 
 *Screenshot of Android Studio - My first App*:
-img/ampps.png
+![A test image](img/ampps.png) img/ampps.png
 
 ![JDK Installation Screenshot](img/jdk_install.png)
 
