@@ -41,15 +41,15 @@
 
 *Screenshot of running java Hello*:
 
-![AMPPS Installation Screenshot](img/ampps.png)
+![JDK Installation Screenshot](img/jdk_install.png)
 
 *Screenshot of Android Studio - My first App*:
 
-![JDK Installation Screenshot](img/jdk_install.png)
+![Android Studio Installation Screenshot](img/android.png)
 
 *Screenshot of Contacts App - Main Screen*:
 
-![Android Studio Installation Screenshot](img/android.png)
+![Android Studio Contacts App](img/android_contacts.png)
 
 
 #### Tutorial Links:
