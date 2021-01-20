@@ -49,8 +49,9 @@ images> **NOTE:** This README.md file should be placed at the **root of each of 
 
 *Screenshot of Contacts App - Main Screen*:
 
-![Android Studio Contacts App](images/android_contacts.png)
+![Android Studio Contacts App Main Screen](images/android_contacts.png)
 
+![Android Studio Contacts App Second Screen](images/android_secondcontacts.png)
 
 #### Tutorial Links:
 
