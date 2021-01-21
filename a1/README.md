@@ -57,6 +57,3 @@ images> **NOTE:** This README.md file should be placed at the **root of each of 
 
 *Bitbucket Tutorial - Station Locations:*
 [A1 Bitbucket Station Locations Tutorial Link](https://bitbucket.org/ids17/bitbucketstationlocations/ "Bitbucket Station Locations")
-
-*Tutorial: Request to update a teammate's repository:*
-[A1 My Team Quotes Tutorial Link](https://bitbucket.org/ids17/myteamquotes/ "My Team Quotes Tutorial")
