@@ -1,10 +1,10 @@
 > **NOTE:** This README.md file should be placed at the **root of each of your main directory.**
 
-# LIS4331 
+# LIS4331 - Advances Mobile Applications Development
 
 ## Ian Stephenson
 
-### Class Number Requirements:
+### LIS4331 Requirements:
 
 *Course Work Links:*
 
@@ -18,7 +18,8 @@
       (bitbucketstattionlocations and myteamquotes)
     - Provide git command descriptions 
 2. [A2 README.md](a2/README.md "My A2 README.md file")
-    - TBD
+    - Create Android app
+    - Provide screenshots of completed app
 3. [A3 README.md](a3/README.md "My A3 README.md file") 
     - TBD
 4. [A4 README.md](a4/README.md "My A4 README.md file") 

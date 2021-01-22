@@ -3,58 +3,18 @@
 >Also, this file **must** use Markdown syntax, and provide project documentation as per below--otherwise, points **will** be deducted.
 >
 
-# Course Title
+# LIS4331 - Advanced Mobile Applications Development
 
-## Your Name
+## Ian Stephenson
 
-### Assignment # Requirements:
-
-*Sub-Heading:*
-
-1. Ordered-list items
-2. 
-3. 
-
-#### README.md file should include the following items:
-
-* Bullet-list items
-* 
-* 
-* 
-
-> This is a blockquote.
-> 
-> This is the second paragraph in the blockquote.
->
-> #### Git commands w/short descriptions:
-
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
+### Assignment 2 Requirements:
 
 #### Assignment Screenshots:
 
-*Screenshot of AMPPS running http://localhost*:
+*Screenshot of Unpopulated user interface*:
 
-![AMPPS Installation Screenshot](img/ampps.png)
+![Unpopulated User Interface Screenshot](images/ampps.png)
 
-*Screenshot of running java Hello*:
+*Screenshot of Populated user interface*:
 
-![JDK Installation Screenshot](img/jdk_install.png)
-
-*Screenshot of Android Studio - My First App*:
-
-![Android Studio Installation Screenshot](img/android.png)
-
-
-#### Tutorial Links:
-
-*Bitbucket Tutorial - Station Locations:*
-[A1 Bitbucket Station Locations Tutorial Link](https://bitbucket.org/username/bitbucketstationlocations/ "Bitbucket Station Locations")
-
-*Tutorial: Request to update a teammate's repository:*
-[A1 My Team Quotes Tutorial Link](https://bitbucket.org/username/myteamquotes/ "My Team Quotes Tutorial")
+![Populated User Interface Screenshot](images/jdk_install.png)
