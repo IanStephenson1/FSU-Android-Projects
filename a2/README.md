@@ -11,10 +11,14 @@
 
 #### Assignment Screenshots:
 
-*Screenshot of Unpopulated user interface*:
+*Screenshot of SS1 - Java: Non-OOP Circle *:
 
-![Unpopulated User Interface Screenshot](images/ampps.png)
+![SS1 Screenshot](images/SS1 - Java.png)
 
-*Screenshot of Populated user interface*:
+*Screenshot of SS2 - Java: Multiple Number*:
 
-![Populated User Interface Screenshot](images/jdk_install.png)
+![SS2 Screenshot](images/SS2 - Java.png)
+
+*Screenshot of SS3 - Java: Nested Structures 2 *:
+
+![SS3 Screenshot](images/SS3 - Java.png)
