@@ -13,12 +13,12 @@
 
 *Screenshot of SS1 - Java: Non-OOP Circle *:
 
-![SS1 Screenshot](images/SS1 - Java.png)
+![SS1 Screenshot](images/SS1.png)
 
 *Screenshot of SS2 - Java: Multiple Number*:
 
-![SS2 Screenshot](images/SS2 - Java.png)
+![SS2 Screenshot](images/SS2.png)
 
 *Screenshot of SS3 - Java: Nested Structures 2 *:
 
-![SS3 Screenshot](images/SS3 - Java.png)
+![SS3 Screenshot](images/SS3.png)
