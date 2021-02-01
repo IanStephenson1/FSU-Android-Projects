@@ -9,6 +9,19 @@
 
 ### Assignment 2 Requirements:
 
+*Part 1:*
+*Research how to complete the following requirements(see screenshots below):*
+1. Drop-down menu for total number of guests (including yourself): 1 –10
+2. Drop-down menu for tip percentage (5% increments): 0 –253.Must add background color(s) or theme(10 pts)
+3. Must add background color(s) or theme(10 pts)
+4. Must create and displaylauncher icon image(10 pts)
+
+*Part 2*:
+README.mdfile should includethe following items(see images below):
+1. Course title, your name, assignment requirements, as per A1;
+2. Screenshot of running application’s unpopulated user interface;
+3. Screenshot of running application’s populated user interface;
+
 #### Assignment Screenshots:
 
 *Screenshot of of running application's unpopulated user interface *:
