@@ -11,6 +11,14 @@
 
 #### Assignment Screenshots:
 
+*Screenshot of of running application's unpopulated user interface *:
+
+![Unpopulated Screenshot](images/TipCalculator.png) 
+
+*Screenshot of of running application's populated user interface *:
+
+![Populated Screenshot](images/TipCalculator2.png)
+
 *Screenshot of SS1 - Java: Non-OOP Circle *:
 
 ![SS1 Screenshot](images/SS1.png)
