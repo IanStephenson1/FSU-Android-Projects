@@ -18,11 +18,11 @@
 5. Must add background color(s) or theme
 6. Create and display launcher icon image
 7. Create Splash/Loading Screen:
->>>>>> a. Purpose: *not* to waste a user’s time, but rather give them something informative and
+    + a. Purpose: *not* to waste a user’s time, but rather give them something informative and
     visually appealing while they wait for an app to load. Examples of judicial/appropriate usage
     would be when an app is resource intensive--that is, when pulling in data, making network
     calls, or other time-consuming events.
->>>>>> b. How: Research why--and how to create--Android splash/loading screens. Moreover, instead
+    + b. How: Research why--and how to create--Android splash/loading screens. Moreover, instead
     of just using a static image, employ some type of *animated* splash screen or other device
     that either is informative or promotes you, your company, and will maintain the user's
     attention--note: no more than 3 seconds.    
