@@ -26,11 +26,11 @@
 
 #### Assignment Screenshots:
 
-*Screenshot of of running application's unpopulated user interface *:
+*Screenshot of running application's unpopulated user interface *:
 
 ![Unpopulated Screenshot](images/TipCalculator.png) 
 
-*Screenshot of of running application's populated user interface *:
+*Screenshot of running application's populated user interface *:
 
 ![Populated Screenshot](images/TipCalculator2.png)
 
