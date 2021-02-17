@@ -36,17 +36,21 @@
 
 #### Assignment Screenshots:
 
+*Screenshot of running applications's splash screeen *:
+
+![Splash Screenshot](images/splashscreen.png)
+
 *Screenshot of running application's unpopulated user interface *:
 
-![Unpopulated Screenshot](images/) 
+![Unpopulated Screenshot](images/unpopulated.png) 
 
 *Screenshot of running application's toast notification *:
 
-![Toast Notification Screenshot](images/)
+![Toast Notification Screenshot](images/toast.png)
 
 *Screenshot of converted currency user interface *:
 
-![Converted Currency Screenshot](images/)
+![Converted Currency Screenshot](images/converted.png)
 
 *Screenshot of SS4 - Java: Time Conversion *:
 
