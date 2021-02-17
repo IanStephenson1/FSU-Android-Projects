@@ -54,11 +54,17 @@
 
 *Screenshot of SS4 - Java: Time Conversion *:
 
-![SS4 Screenshot](images/)
+![SS4 Screenshot](images/ss4p1.png)
+
+![SS4 Screenshot](images/ss4p2.png)
 
 *Screenshot of SS5 - Java: Even/Odd (GUI) *:
 
-![SS5 Screenshot](images/)
+![SS5 Screenshot](images/ss5p1.png)
+
+![SS5 Screenshot](images/ss5p2.png)
+
+![SS5 Screenshot](images/ss5p3.png)
 
 *Screenshot of SS6 - Java: Paint Calculator (GUI) *:
 
