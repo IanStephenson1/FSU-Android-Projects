@@ -68,6 +68,16 @@
 
 *Screenshot of SS6 - Java: Paint Calculator (GUI) *:
 
-![SS6 Screenshot](images/)
+![SS6 Screenshot](images/ss6p1.png)
+
+![SS6 Screenshot](images/ss6p2.png)
+
+![SS6 Screenshot](images/ss6p3.png)
+
+![SS6 Screenshot](images/ss6p4.png)
+
+![SS6 Screenshot](images/ss6p5.png)
+
+![SS6 Screenshot](images/ss6p6.png)
 
 
