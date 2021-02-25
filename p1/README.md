@@ -3,58 +3,43 @@
 >Also, this file **must** use Markdown syntax, and provide project documentation as per below--otherwise, points **will** be deducted.
 >
 
-# Course Title
+# LIS4331 - Advanced Mobile Applications Development
 
-## Your Name
+## Ian Stephenson
 
-### Assignment # Requirements:
+### Project 1 Requirements:
 
-*Sub-Heading:*
+*Research how to complete the following requirements(see screenshots below):*
 
-1. Ordered-list items
-2. 
-3. 
+1. Include splash screen image, app title, intro text.
+2. Include artists’ images and media.
+3. Images and buttons must be vertically and horizontally aligned.
+4. Must add background color(s) or theme
+5. Create and display launcher icon image
 
 #### README.md file should include the following items:
 
-* Bullet-list items
-* 
-* 
-* 
-
-> This is a blockquote.
-> 
-> This is the second paragraph in the blockquote.
->
-> #### Git commands w/short descriptions:
-
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
+* Course title, your name, assignment requirements, as per A1;
+* Screenshot of running application’s splash screen;
+* Screenshot of running application’s follow-up screen (with images and buttons);
+* Screenshots of running application’s play and pause user interfaces (with images and buttons);
 
 #### Assignment Screenshots:
 
-*Screenshot of AMPPS running http://localhost*:
+*Screenshot of running application's splash screen*:
 
-![AMPPS Installation Screenshot](img/ampps.png)
+![Splash Screen Screenshot](images/splash.png)
 
-*Screenshot of running java Hello*:
+*Screenshot of running application's follow up screen (with images and buttons)*:
 
-![JDK Installation Screenshot](img/jdk_install.png)
+![Follow up Screenshot](images/main.png)
 
-*Screenshot of Android Studio - My First App*:
+*Screenshot of running application's play user interface (with images and buttons)*:
 
-![Android Studio Installation Screenshot](img/android.png)
+![Play Screenshot](images/play.png)
+
+*Screenshot of running application's pause user interface (with images and buttons)*:
+
+![Pause Screenshot](images/pause.png)
 
 
-#### Tutorial Links:
-
-*Bitbucket Tutorial - Station Locations:*
-[A1 Bitbucket Station Locations Tutorial Link](https://bitbucket.org/username/bitbucketstationlocations/ "Bitbucket Station Locations")
-
-*Tutorial: Request to update a teammate's repository:*
-[A1 My Team Quotes Tutorial Link](https://bitbucket.org/username/myteamquotes/ "My Team Quotes Tutorial")

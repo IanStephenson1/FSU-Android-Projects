@@ -30,7 +30,9 @@
 5. [A5 README.md](a5/README.md "My A5 README.md file") 
     - TBD
 6. [P1 README.md](p1/README.md "My P1 README.md file") 
-    - TBD
+    - Create Android app
+    - Create spalsh screen image 
+    - Provide screenshots of completed app
 6. [P2 README.md](p2/README.md "My P2 README.md file") 
     - TBD
 
