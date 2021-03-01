@@ -42,4 +42,9 @@
 
 ![Pause Screenshot](images/pause.png)
 
+*Screenshot of SS7 - Java: Measurement Conversion) *:
+
+![Screenshot One](images/SS7p1.png)
+
+![Screenshot Two](images/SS7p2.png)
 
