@@ -48,3 +48,10 @@
 
 ![Screenshot Two](images/SS7p2.png)
 
+*Screenshot of SS8 - Java: Distance Calculator (GUI) *:
+
+![Screenshot One](images/SS8p1.png)
+
+![Screenshot One](images/SS8p2.png)
+
+
