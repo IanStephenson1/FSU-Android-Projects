@@ -42,16 +42,23 @@
 
 ![Pause Screenshot](images/pause.png)
 
-*Screenshot of SS7 - Java: Measurement Conversion) *:
+*Screenshots of SS7 - Java: Measurement Conversion) *:
 
 ![Screenshot One](images/SS7p1.png)
 
 ![Screenshot Two](images/SS7p2.png)
 
-*Screenshot of SS8 - Java: Distance Calculator (GUI) *:
+*Screenshots of SS8 - Java: Distance Calculator (GUI) *:
 
 ![Screenshot One](images/SS8p1.png)
 
 ![Screenshot One](images/SS8p2.png)
 
+*Screenshots of SS9 - Java: Multiple Selection Lists (GUI) *:
+
+![Screenshot One](images/SS9p1.png)
+
+![Screenshot Two](images/SS9p2.png)
+
+![Screenshot Three](images/SS9p3.png)
 
