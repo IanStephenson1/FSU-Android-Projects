@@ -5,7 +5,7 @@ images> **NOTE:** This README.md file should be placed at the **root of each of 
 
 # LIS4331 - Advanced Mobile Applications Development
 
-## Ian Stephenson
+## Ian Stephenson - TESTING
 
 ### Assignment 1 Requirements:
 
