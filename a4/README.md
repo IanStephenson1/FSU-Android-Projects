@@ -3,58 +3,33 @@
 >Also, this file **must** use Markdown syntax, and provide project documentation as per below--otherwise, points **will** be deducted.
 >
 
-# Course Title
+# LIS4331 - Advanced Mobile Applications Development
 
-## Your Name
+## Ian Stephenson
 
-### Assignment # Requirements:
+### Assignment 4 Requirements:
 
-*Sub-Heading:*
+*Research how to completethe following requirements(see screenshots below):*
 
-1. Ordered-list items
-2. 
-3. 
+1. Include splash screen image(or, create your own), app title, intro text.
+2. Include appropriate images.
+3. Must use persistent data: SharedPreferences
+4. Widgets and images must be vertically and horizontally aligned.
+5. Must add background color(s) or theme
+6. Create and displaylauncher icon image
 
 #### README.md file should include the following items:
 
-* Bullet-list items
-* 
-* 
-* 
-
-> This is a blockquote.
-> 
-> This is the second paragraph in the blockquote.
->
-> #### Git commands w/short descriptions:
-
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
+1. Course title, your name, assignment requirements, as per A1;
+2. Screenshotofrunning application’s splash screen;
+3. Screenshot of running application’s invalid screen (with appropriate image);
+4. Screenshots of running application’s valid screen (with appropriate image);
 
 #### Assignment Screenshots:
 
-*Screenshot of AMPPS running http://localhost*:
-
-![AMPPS Installation Screenshot](img/ampps.png)
-
-*Screenshot of running java Hello*:
-
-![JDK Installation Screenshot](img/jdk_install.png)
-
-*Screenshot of Android Studio - My First App*:
-
-![Android Studio Installation Screenshot](img/android.png)
-
-
-#### Tutorial Links:
-
-*Bitbucket Tutorial - Station Locations:*
-[A1 Bitbucket Station Locations Tutorial Link](https://bitbucket.org/username/bitbucketstationlocations/ "Bitbucket Station Locations")
-
-*Tutorial: Request to update a teammate's repository:*
-[A1 My Team Quotes Tutorial Link](https://bitbucket.org/username/myteamquotes/ "My Team Quotes Tutorial")
+|*Screenshot of Splash Screen*:                     |*Screenshot of Main*:                              |
+|---------------------------------------------------|---------------------------------------------------|
+|![AMPPS Installation Screenshot](images/splash.png)|![JDK Installation Screenshot](images/main.png)    |
+|---------------------------------------------------|---------------------------------------------------|
+|*Screenshot of Incorrect number of years*:         |*Screenshot of Valid Entry *:                      |
+|![Android Studio Installation](images/invalid.png) |![Android](images/result.png)                      | |                                                   |                                                   |
