@@ -30,6 +30,6 @@
 |*Screenshot of Splash Screen*:                     |*Screenshot of Main*:                              |
 |---------------------------------------------------|---------------------------------------------------|
 |![AMPPS Installation Screenshot](images/splash.png)|![JDK Installation Screenshot](images/main.png)    |
-|---------------------------------------------------|---------------------------------------------------|
+|                                                   |                                                   |
 |*Screenshot of Incorrect number of years*:         |*Screenshot of Valid Entry *:                      |
-|![Android Studio Installation](images/invalid.png) |![Android](images/result.png)                      | |                                                   |                                                   |
+|![Android Studio Installation](images/invalid.png) |![Android](images/result.png)                      |    |                                                   |                                                   |
