@@ -21,15 +21,18 @@
 #### README.md file should include the following items:
 
 1. Course title, your name, assignment requirements, as per A1;
-2. Screenshotofrunning application’s splash screen;
+2. Screenshot of running application’s splash screen;
 3. Screenshot of running application’s invalid screen (with appropriate image);
 4. Screenshots of running application’s valid screen (with appropriate image);
 
 #### Assignment Screenshots:
 
-|*Screenshot of Splash Screen*:                     |*Screenshot of Main*:                              |
+|*Splash Screen*:                                   |*Main*:                                            |
 |---------------------------------------------------|---------------------------------------------------|
 |![AMPPS Installation Screenshot](images/splash.png)|![JDK Installation Screenshot](images/main.png)    |
 |                                                   |                                                   |
-|*Screenshot of Incorrect number of years*:         |*Screenshot of Valid Entry *:                      |
-|![Android Studio Installation](images/invalid.png) |![Android](images/result.png)                      |    |                                                   |                                                   |
+|*Incorrect number of years*:                       |*Valid Entry *:                                    |
+|![Android Studio Installation](images/invalid.png) |![Android](images/result.png)                      ||                                                   |                                                   | |*SS10 - Java: Travel Time                          | *SS11 - Java: Product Class                       |
+|![SS10SCREENSHOT](images/ss10.png)                 | ![SS11SCREENSHOT](images/ss11.png)                |
+|*SS12 - Java: Book Inherits Product Class          |                                                   |
+|![SS12SCREENSHOT](images/ss12.png)                 |                                                   |
