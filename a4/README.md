@@ -30,9 +30,9 @@
 |*Splash Screen*:                                   |*Main*:                                            |
 |---------------------------------------------------|---------------------------------------------------|
 |![AMPPS Installation Screenshot](images/splash.png)|![JDK Installation Screenshot](images/main.png)    |
-|                                                   |                                                   |
+
 |*Incorrect number of years*:                       |*Valid Entry *:                                    |
-|![Android Studio Installation](images/invalid.png) |![Android](images/result.png)                      ||                                                   |                                                   | |*SS10 - Java: Travel Time                          | *SS11 - Java: Product Class                       |
+|![Android Studio Installation](images/invalid.png) |![Android](images/result.png)                      ||                                                   |                                                   | |*SS10 - Java: Travel Time*:                        | *SS11 - Java: Product Class*:                     |
 |![SS10SCREENSHOT](images/ss10.png)                 | ![SS11SCREENSHOT](images/ss11.png)                |
-|*SS12 - Java: Book Inherits Product Class          |                                                   |
+|*SS12 - Java: Book Inherits Product Class*:        |                                                   |
 |![SS12SCREENSHOT](images/ss12.png)                 |                                                   |
