@@ -27,12 +27,18 @@
 
 #### Assignment Screenshots:
 
-|*Splash Screen*:                                   |*Main*:                                            |
-|---------------------------------------------------|---------------------------------------------------|
+| *Splash Screen*                                   | *Main*                                            |
+|:-------------------------------------------------:|:-------------------------------------------------:|
 |![AMPPS Installation Screenshot](images/splash.png)|![JDK Installation Screenshot](images/main.png)    |
 
-|*Incorrect number of years                         |*Valid Entry                                       |
-|![Android Studio Installation](images/invalid.png) |![Android](images/result.png)                      ||                                                   |                                                   | |*SS10 - Java: Travel Time*:                        | *SS11 - Java: Product Class*:                     |
-|![SS10SCREENSHOT](images/ss10.png)                 | ![SS11SCREENSHOT](images/ss11.png)                |
-|*SS12 - Java: Book Inherits Product Class*:        |                                                   |
-|![SS12SCREENSHOT](images/ss12.png)                 |                                                   |
+| *Incorrect number of years*                       | *Valid Entry*                                     |
+|:-------------------------------------------------:|:-------------------------------------------------:|
+|![AMPPS Installation Schot](images/invalid.png)    |![JDK Installation Screenshot](images/result.png)  |
+
+| *SS10 - Java: Travel Time*                        | *SS11: Java: Product Class *                      |
+|:-------------------------------------------------:|:-------------------------------------------------:|
+|![AMPPS Installation Screenshot](images/ss10.png)|![JDK Installation Screenshot](images/ss11.png)    |
+
+| *SS12 - Java: Book Inherits Product Class*        | 
+|:-------------------------------------------------:|
+|![AMPPS Installation Screenshot](images/ss12.png)|
