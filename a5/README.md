@@ -1,60 +1,38 @@
-> **NOTE:** This README.md file should be placed at the **root of each of your repos directories.**
+>> **NOTE:** This README.md file should be placed at the **root of each of your repos directories.**
 >
 >Also, this file **must** use Markdown syntax, and provide project documentation as per below--otherwise, points **will** be deducted.
 >
 
-# Course Title
+# LIS4331 - Advanced Mobile Applications Development
 
-## Your Name
+## Ian Stephenson
 
-### Assignment # Requirements:
+### Assignment 5 Requirements:
 
-*Sub-Heading:*
+*Research how to completethe following requirements(see screenshots below):*
 
-1. Ordered-list items
-2. 
-3. 
+1. Include splash screen (optional)
+2. Main screen with app title and list of articles.
+3. Must find and use your own RSS feed.
+5. Must add background color(s) or theme
+6. Create and display launcher icon image
 
 #### README.md file should include the following items:
 
-* Bullet-list items
-* 
-* 
-* 
-
-> This is a blockquote.
-> 
-> This is the second paragraph in the blockquote.
->
-> #### Git commands w/short descriptions:
-
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
+1. Course title, your name, assignment requirements, as per A1;
+2. Screenshot of running application’s splash screen;
+3. Screenshot of running application’s invalid screen (with appropriate image);
+4. Screenshots of running application’s valid screen (with appropriate image);
 
 #### Assignment Screenshots:
 
-*Screenshot of AMPPS running http://localhost*:
+|*Items Activity*                                   |*Item Activity*                                    |
+|:-------------------------------------------------:|:-------------------------------------------------:|
+|![AMPPS Installation Screenshot](images/items.png) |![JDK Installation Screenshot](images/item.png)    |
 
-![AMPPS Installation Screenshot](img/ampps.png)
+| *Read More(Chrome Error)*                         | *SS13 - Java: Write/Read File*                    |
+|:-------------------------------------------------:|:-------------------------------------------------:|
+|![AMPPS Installation Schot](images/error.png)      |![JDK Installation Screenshot](images/ss13.png)    |
 
-*Screenshot of running java Hello*:
-
-![JDK Installation Screenshot](img/jdk_install.png)
-
-*Screenshot of Android Studio - My First App*:
-
-![Android Studio Installation Screenshot](img/android.png)
-
-
-#### Tutorial Links:
-
-*Bitbucket Tutorial - Station Locations:*
-[A1 Bitbucket Station Locations Tutorial Link](https://bitbucket.org/username/bitbucketstationlocations/ "Bitbucket Station Locations")
-
-*Tutorial: Request to update a teammate's repository:*
-[A1 My Team Quotes Tutorial Link](https://bitbucket.org/username/myteamquotes/ "My Team Quotes Tutorial")
+|*SS14 - Java: Simple Interest Calculator*          |*SS15 - Java: Array Demo Using Methods*            |
+|![!SS14 - Screenshot]()images/ss14.png)            | ![SS15 - Screenshot](images/ss15.png)             |
