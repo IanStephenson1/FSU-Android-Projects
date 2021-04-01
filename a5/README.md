@@ -36,4 +36,4 @@
 
 |*SS14 - Java: Simple Interest Calculator*          |*SS15 - Java: Array Demo *                         |
 |:-------------------------------------------------:|:-------------------------------------------------:|
-|![!SS14 - Screenshot]()images/ss14.png)            |![SS15 - Screenshot](images/ss15.png)      
+|![!SS14 - Screenshot](images/ss14.png)            |![SS15 - Screenshot](images/ss15.png)      
