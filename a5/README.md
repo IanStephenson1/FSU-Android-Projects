@@ -34,5 +34,5 @@
 |:-------------------------------------------------:|:-------------------------------------------------:|
 |![AMPPS Installation Schot](images/error.png)      |![JDK Installation Screenshot](images/ss13.png)    |
 
-|*SS14 - Java: Simple Interest Calculator*          |*SS15 - Java: Array Demo Using Methods*            |
-|![!SS14 - Screenshot]()images/ss14.png)            | ![SS15 - Screenshot](images/ss15.png)             |
+|*SS14 - Java: Simple Interest Calculator*|*SS15 - Java: Array Demo           |
+|![!SS14 - Screenshot]()images/ss14.png)|![SS15 - Screenshot](images/ss15.png)      
