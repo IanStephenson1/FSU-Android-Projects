@@ -20,45 +20,26 @@
 #### README.md file should include the following items:
 
 * Course title, your name, assignment requirements, as per A1;
-* Screenshot of running application’s splash screen;
-* Screenshot of running application’s follow-up screen (with images and buttons);
-* Screenshots of running application’s play and pause user interfaces (with images and buttons);
+* At least five screenshots of running application, as per below.
 
 #### Assignment Screenshots:
 
-*Screenshot of running application's splash screen*:
+*Splash Screen*:
 
-![Splash Screen Screenshot](images/splash.png)
+![Splash Screen Screenshot](images/ssplash.png)
 
-*Screenshot of running application's follow up screen (with images and buttons)*:
+*Add User*:
 
-![Follow up Screenshot](images/main.png)
+![Follow up Screenshot](images/adduser.png)
 
-*Screenshot of running application's play user interface (with images and buttons)*:
+*Update User*:
 
-![Play Screenshot](images/play.png)
+![Play Screenshot](images/updateuser.png)
 
-*Screenshot of running application's pause user interface (with images and buttons)*:
+*View User*:
 
-![Pause Screenshot](images/pause.png)
+![Pause Screenshot](images/view.png)
 
-*Screenshots of SS7 - Java: Measurement Conversion) *:
+*Delete User*:
 
-![Screenshot One](images/SS7p1.png)
-
-![Screenshot Two](images/SS7p2.png)
-
-*Screenshots of SS8 - Java: Distance Calculator (GUI) *:
-
-![Screenshot One](images/SS8p1.png)
-
-![Screenshot One](images/SS8p2.png)
-
-*Screenshots of SS9 - Java: Multiple Selection Lists (GUI) *:
-
-![Screenshot One](images/SS9p1.png)
-
-![Screenshot Two](images/SS9p2.png)
-
-![Screenshot Three](images/SS9p3.png)
-
+![Screenshot One](images/deleteuser.png)
